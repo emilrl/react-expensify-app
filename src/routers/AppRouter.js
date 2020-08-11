@@ -25,8 +25,4 @@ const AppRouter = () => (
   </Router>
 );
 
-const mapStatetoProps = (state) => ({
-  state: state,
-});
-
 export default AppRouter;
